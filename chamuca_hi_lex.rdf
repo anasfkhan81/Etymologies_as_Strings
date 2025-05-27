@@ -2154,7 +2154,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#materials> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#ambar> ;
-    lexinfo:etymology "pt ambar (Source: Dalgado) | fa عنبر (source:  Wiktionary) | ar عَنْبَر (Source: Dalgado) ." ;
+    lexinfo:etymology "pt ambar (Source: Dalgado) | fa عنبر ‘ambergris’ (source:  Wiktionary) | pal ‘ambergris’ mbl > ar عَنْبَر (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#عنبر_entry> ;
@@ -2173,7 +2173,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#calendar> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#outubro> ;
-    lexinfo:etymology "pt outubro (Source: Wiktionary) |  en October (Source: McGregor) ." ;
+    lexinfo:etymology "pt outubro (Source: Wiktionary) | en October (Source: McGregor) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#اَکْتُوبَر⁩_entry> ;
@@ -2225,7 +2225,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#botany> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#ananás> ;
-    lexinfo:etymology "pt ananás (Source: Dalgado) ." ;
+    lexinfo:etymology "tpn naná ‘pineapple’ (Source: Wiktionary) > pt ananás ‘pineapple’ (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#انناس_entry> ;
@@ -2244,7 +2244,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#nan> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#anis> ;
-    lexinfo:etymology "pt ? anis (Source: Dalgado)| grc ἄνισον (Source: Dalgado) | la anisum https://en.wiktionary.org/wiki/anisum#la (Source: Dalgado) ." ;
+    lexinfo:etymology "pt ? anis (Source: Dalgado) | grc ἄνισον ‘anise (Pimpinella anisum)’ (Source: Dalgado) | grc ἄνισον (Source: Wiktionary) >  la anisum ‘anise (Pimpinella anisum)’  (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#اَنِیسُون_entry> ;
@@ -2277,7 +2277,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#animalHusbandry> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#estábulo> ;
-    lexinfo:etymology "pt estábulo  (Source: McGregor) | ar ist̤abal (Source: McGregor) ." ;
+    lexinfo:etymology "pt estábulo (Source: McGregor) | ar اسطبل (Source: McGregor) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#اَصْطَبَل_entry> ;
@@ -2315,7 +2315,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#religion> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#amen> ;
-    lexinfo:etymology "pt amen (Source: Dalgado) | ar آمين (Source: Dalgado) ." ;
+    lexinfo:etymology "pt amen (Source: Dalgado) | ar آمين ‘amen’ (Source: Dalgado) ." ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#آمین_entry> ;
     frac:frequency [ a frac:Frequency ;
             rdf:value 1001 ;
@@ -2389,7 +2389,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#objects> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#candil> ;
-    lexinfo:etymology "pt ? candil (Source: Dalgado) | ar قنديل (Source: Dalgado) ." ;
+    lexinfo:etymology "pt ? candil (Source: Dalgado) | lat candēla ‘a light made of wax or tallow' > grc κανδήλη ‘oil lamp' > ar قنديل  ‘lamp' (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:feminine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#قندیل_entry> ;
@@ -2417,7 +2417,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#architecture> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#câmara> ;
-    lexinfo:etymology "pt câmara (Source: Dalgado) ." ;
+    lexinfo:etymology "pt câmara  (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#کِران٘چی_entry> ;
@@ -2476,7 +2476,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#clothing> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#camisa> ;
-    lexinfo:etymology "pt camisa (Source: Dalgado) | fa قمیص (Source: Wiktionary) | ar (Source: Dalgado) ." ;
+    lexinfo:etymology "pt camisa (Source: Dalgado) | ar قميص ‘shirt’ & ‘gown’  (Source:Wiktionary) > fa قمیص (Source: Wiktionary) | lat camisia (Source:Wiktionary) > ar قميص ‘shirt’ & ‘gown’ (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:feminine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#قمیض_entry> ;
@@ -2490,7 +2490,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#nan> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#casa> ;
-    lexinfo:etymology "pt casa (Source: Dalgado) | sa काचः 'a loop' (Source: Platts) ." ;
+    lexinfo:etymology "pt casa (Source: Dalgado) | sa काचः ‘a loop' (Source: Platts) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#کاج_entry> ;
@@ -2504,7 +2504,6 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#botany> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#caju> ;
-    lexinfo:etymology "pt  ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#کاجو⁩_entry> ;
@@ -2590,7 +2589,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#religion> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#cristão> ;
-    lexinfo:etymology "pt NA (Source: Dalgado) ." ;
+    lexinfo:etymology "pt (Source: Dalgado) ." ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#کِرسٹان_entry> ;
     frac:frequency [ a frac:Frequency ;
@@ -2603,7 +2602,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#nan> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#gudão> ;
-    lexinfo:etymology "pt gudão (Source: Dalgado) | bn gudām (Source: Wiktionary, McGregor) ." ;
+    lexinfo:etymology "pt gudão (Source: Dalgado) | pt gudão ‘godown' (Source: Wiktionary) >  bn গুদাম ‘godown, warehouse' (Source: Wiktionary, McGregor) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#گودام_entry> ;
@@ -2646,7 +2645,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#architecture> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#jogar> ;
-    lexinfo:etymology "pt jogar (Source: Dalgado) |  sa द्यूत (Source: Wiktionary) ." ;
+    lexinfo:etymology "pt jogar (Source: Dalgado) |  sa द्यूत ‘gambling, game of dice' (Source: Wiktionary) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#جوا_entry> ;
@@ -2660,7 +2659,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#architecture> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#jogar> ;
-    lexinfo:etymology "pt jogar (Source: Dalgado) |  sa द्यूत  (Source: Wiktionary) ." ;
+    lexinfo:etymology "pt jogar (Source: Dalgado) |  sa द्यूत ‘gambling, game of dice' (Source: Wiktionary) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#جواری_entry> ;
@@ -2705,7 +2704,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#nan> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#tabaco> ;
-    lexinfo:etymology "pt tabaco (Source: Dalgado) | fa تنباکو (Source: Wiktionary) ." ;
+    lexinfo:etymology "pt tabaco (Source: Dalgado) | pt tabaco (Source:Wiktionary) > fa تنباکو (Source: Wiktionary) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#تنباکو_entry> ;
@@ -2719,7 +2718,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#nan> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#tambor> ;
-    lexinfo:etymology "pt tambor (Source: Dalgado) | fa tambūra (Source: McGregor) ." ;
+    lexinfo:etymology "pt tambor (Source: Dalgado) | pal tmbwl, tnbwl (Source: Wiktionary) > fa تنبور ‘tanbur' (Source: McGregor) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#تنپورا_entry> ;
@@ -2769,7 +2768,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#calendar> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#dezembro> ;
-    lexinfo:etymology "pt en December (Source: McGregor) ." ;
+    lexinfo:etymology "en December (Source: McGregor) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#دسمبر⁩_entry> ;
@@ -2969,7 +2968,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#architecture> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#varanda> ;
-    lexinfo:etymology "pt varanda (Source: Dalgado) | fa bar āmada 'come forth' (Source: McGregor) ." ;
+    lexinfo:etymology "pt varanda (Source: Dalgado) | fa bar āmada ‘come forth' (Source: McGregor) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#برامدا_entry> ;
@@ -2988,7 +2987,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#nan> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#basta> ;
-    lexinfo:etymology "pt basta (Source: Dalgado) | fa بس (Source: Dalgado, Wiktionary, McGregor) ." ;
+    lexinfo:etymology "pt basta (Source: Dalgado) | fa بس ‘enough, sufficiently' (Source: Dalgado, Wiktionary, McGregor) ." ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#بس_entry> ;
     frac:frequency [ a frac:Frequency ;
             rdf:value 281570 ;
@@ -3037,7 +3036,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#household> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#bacia_ou_bacio> ;
-    lexinfo:etymology "pt bacia ou bacio (Source: Dalgado) | sa भाजन (Source: Dalgado) ." ;
+    lexinfo:etymology "pt bacia, bacio (Source: Dalgado) | sa भाजन ‘(arithmetic) dividing, sharing' & 'a vessel, pot, plate, cup (Source: Dalgado) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#باسن_entry> ;
@@ -3280,7 +3279,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#cleaningAndHygiene> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#sabão> ;
-    lexinfo:etymology "pt sabão (Source: Dalgado) | ar ṣābun (Source: McGregor) | fa صابون (Source: Wiktionary) ." ;
+    lexinfo:etymology "pt sabão (Source: Dalgado) | ine-pro *seyb- > gem-pro *saipǭ [borrowing] > la sāpō [borrowing] > grc σάπων [borrowing] > syc ܨܲܦ݁ܘܿܢܵܐ (Source:Wiktionary)  [borrowing] > ar صَابُون (Source: McGregor) |  ar صَابُون > fa صابون (Source: Wiktionary) ." ;
     lexinfo:gender lexinfo:masculine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#صابن_entry> ;
@@ -3422,7 +3421,7 @@
         ontolex:Word ;
     lexinfo:domain <http://lari-datasets.ilc.cnr.it/chadoms#food> ;
     lexinfo:etymologicalRoot <http://lari-datasets.ilc.cnr.it/chamuca_pt_lex#couve> ;
-    lexinfo:etymology "pt couve (Source: Dalgado) | Sanksrit गोजीह्विका (Source: Wiktionary) ." ;
+    lexinfo:etymology "pt couve (Source: Dalgado) | sa गोजीह्विका ‘the uvula' (Source: Wiktionary) ." ;
     lexinfo:gender lexinfo:feminine ;
     lexinfo:partOfSpeech lexinfo:commonNoun ;
     rdfs:seeAlso <http://lari-datasets.ilc.cnr.it/chamuca_ur_lex#گوبھی_entry> ;
