@@ -8,6 +8,6 @@
     "vitepress": "^1.6.3"
   },
   "dependencies": {
-    "vitepress-plugin-sparql": "^0.3.2"
+    "vitepress-plugin-sparql": "^0.3.3"
   }
 }
