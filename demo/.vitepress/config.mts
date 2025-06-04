@@ -3,6 +3,7 @@ import { SparqlPlugin} from 'vitepress-plugin-sparql'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Etymologies_as_Strings/',
   title: "Etymologies as strings: Demo",
   description: "A companion website for the Etymologies as strings paper.",
   themeConfig: {
